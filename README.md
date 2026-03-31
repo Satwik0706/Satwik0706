@@ -1,14 +1,18 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi+I'm+Satwik+Joshi;Future+Google+Engineer🔥;DSA+Enthusiast+%7C+Full+Stack+Learner;Coder+%7C+Gamer+%7C+Writer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=32&center=true&vCenter=true&width=800&lines=Hi+I'm+Satwik+Joshi🔥;Aspiring+Software+Engineer🚀;Full+Stack+Developer+in+Progress;DSA+Enthusiast💻;Code+|+Build+|+Dominate" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Satwik0706&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 # 👋 About Me
 
-🚀 Passionate **Coder | Gamer | Article Writer**
-💡 Obsessed with **DSA & Problem Solving**
-🎯 Goal: Crack **Google / Top Tech Companies**
+🚀 Passionate **Software Developer | Gamer | Writer**
+💡 Strong in **DSA & Problem Solving**
+🎯 Goal: Crack top tech companies
 🧠 Currently learning **Full Stack Development**
 
 ---
@@ -18,13 +22,13 @@
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js" />
 </p>
 
 ### ⚙️ Tools & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,git,github" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,git,github,nodejs,react" />
 </p>
 
 ---
@@ -36,43 +40,75 @@
 * Cricket tournament management system
 * Tech: React, Node.js, MongoDB
 
+📱 **Campus Connect App**
+
+* Mobile app for campus notifications & updates
+
+🔧 **GoMech (Campus Service Platform)**
+
+* Connects students with service providers inside campus
+
 💻 **DSA Tracker**
 
-* Track coding progress & streaks
-* Tech: Python
+* Tracks coding progress & streaks
 
 🌐 **Portfolio Website**
 
-* Personal portfolio
-* Tech: HTML, CSS, JS
+* Personal developer portfolio
+
+---
+
+# 🧠 Advanced Projects
+
+🏦 **Real-Time Banking Simulator**
+
+* Simulates real-world banking using Python
+
+🛡️ **Senial AI (Cyber Security)**
+
+* AI-based cyber attack detection system
+
+📄 **Text Scanner Tool**
+
+* Extract text from images
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satwik0706&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Satwik0706&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satwik0706&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satwik0706&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🧠 DSA & LeetCode
+# 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satwik0706&theme=tokyo-night" />
+</p>
+
+---
+
+# 🧠 DSA & Coding
 
 🚀 Solving problems daily
-📈 Focus on: Arrays, Trees, Graphs, DP
+📈 Focus: Arrays | Trees | Graphs | DP
 
-🔗 Add your LeetCode link here
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo" />
+</p>
 
 ---
 
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Satwik0706/Satwik0706/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -80,7 +116,7 @@
 # ⚡ Fun Zone
 
 🎮 Gamer mindset = strategic thinking
-✍️ Writing articles to simplify concepts
+✍️ Writing articles to simplify tech
 🔥 Consistency > Motivation
 
 ---
