@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=200&section=header&text=Satwik%20Joshi&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=32&center=true&vCenter=true&width=800&lines=Hi+I'm+Satwik+Joshi🔥;Aspiring+Software+Engineer🚀;Full+Stack+Developer+in+Progress;DSA+Enthusiast💻;Code+|+Build+|+Dominate" />
 </p>
 
@@ -22,7 +26,7 @@
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js" />
 </p>
 
 ### ⚙️ Tools & Databases
@@ -94,17 +98,6 @@
 
 ---
 
-# 🧠 DSA & Coding
-
-🚀 Solving problems daily
-📈 Focus: Arrays | Trees | Graphs | DP
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo" />
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
@@ -127,4 +120,8 @@
   <a href="https://github.com/Satwik0706">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00F7FF&height=120&section=footer"/>
 </p>
